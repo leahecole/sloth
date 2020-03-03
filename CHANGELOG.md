@@ -4,6 +4,14 @@
 
 [1]: https://www.npmjs.com/package/@justinbeckwith/sloth?activeTab=versions
 
+### [5.11.1](https://www.github.com/googleapis/sloth/compare/v5.11.0...v5.11.1) (2020-03-03)
+
+
+### Bug Fixes
+
+* cbr owns tasks ([#560](https://www.github.com/googleapis/sloth/issues/560)) ([ccc5eb4](https://www.github.com/googleapis/sloth/commit/ccc5eb47b58dbac91eeab58705455557b1bb98f0))
+* remove tswast from yoshi teams ([#558](https://www.github.com/googleapis/sloth/issues/558)) ([5795e58](https://www.github.com/googleapis/sloth/commit/5795e585f2d781a2ab0e48bb44beb2cb13b5cafa))
+
 ## [5.11.0](https://www.github.com/googleapis/sloth/compare/v5.10.0...v5.11.0) (2020-03-03)
 
 
